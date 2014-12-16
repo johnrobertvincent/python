@@ -28,5 +28,5 @@ def switch():
 
 current = "off"
 
-while 0 < 1:
+while True:
     switch()
